@@ -1,0 +1,22 @@
+curl.exe -L https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/11844
+
+"number": 11844,
+"state": "closed",
+"title": "Revert README typo fix",
+
+"head": {
+  "label": "chaitanya-36:bug-fix-revert",
+  "ref": "bug-fix-revert",
+  "repo": {
+    "full_name": "chaitanya-36/mcino-Introduction-to-Git-and-GitHub",
+    "fork": true
+  }
+},
+
+"base": {
+  "label": "ibm-developer-skills-network:main",
+  "ref": "main",
+  "repo": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
