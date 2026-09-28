@@ -1,0 +1,29 @@
+Curl command- curl.exe -L https://api.github.com/repos/chaitanya-36/mcino-Introduction-to-Git-and-GitHub/branches
+
+Output- 
+[
+  {
+    "name": "bug-fix-revert",
+    "commit": {
+      "sha": "16f6083485a0e143d43d1b3bfa73af2ebdd8b5a8",
+      "url": "https://api.github.com/repos/chaitanya-36/mcino-Introduction-to-Git-and-GitHub/commits/16f6083485a0e143d43d1b3bfa73af2ebdd8b5a8"
+    },
+    "protected": false
+  },
+  {
+    "name": "bug-fix-typo",
+    "commit": {
+      "sha": "4372dfe65cfc281e0bf0941c570492db089bee20",
+      "url": "https://api.github.com/repos/chaitanya-36/mcino-Introduction-to-Git-and-GitHub/commits/4372dfe65cfc281e0bf0941c570492db089bee20"
+    },
+    "protected": false
+  },
+  {
+    "name": "main",
+    "commit": {
+      "sha": "d0ba1fd2a0e614c42325f454cb22c5ceb2bf0642",
+      "url": "https://api.github.com/repos/chaitanya-36/mcino-Introduction-to-Git-and-GitHub/commits/d0ba1fd2a0e614c42325f454cb22c5ceb2bf0642"
+    },
+    "protected": false
+  }
+]
